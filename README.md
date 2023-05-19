@@ -13,3 +13,6 @@
 - Case Study 02: Housing Price
 - Case Study 03: Game Prediction (Versi [Google Collab](https://colab.research.google.com/drive/1ZIw3mrZhXZZSx3zhOB6nMcqepfLiJLRV#scrollTo=QwLGXNaqmGwf))
 - Case Study 04: Stock Price Prediction
+
+</br>
+Notes : Revisi pada Case Study #1 dan #3
